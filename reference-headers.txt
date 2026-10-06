@@ -1,0 +1,12 @@
+HTTP/1.1 200 Connection established
+
+HTTP/1.1 200 OK
+Date: Tue, 06 Oct 2026 19:22:58 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch, Next-Url, X-Vinext-Interception-Context, X-Vinext-Mounted-Slots, X-Vinext-Rsc-Render-Mode
+set-cookie: __cf_bm=8z2XeLSQOaycA1XMoQ.znztwKwE4jnX6zipCKxlEYng-1791314578.089991-1.0.1.1-Dw7fALytKmWzDta_P0Xv7j_.n6xNcqJ9udDn9yw9iK2vGpwDMckeRh9R1ITvcF8L.6Ez.013HMLOBsKQ4R3Wmr7PcF.wh2ds9hVZ7cHdx3Avbwv_7f_s5ZRoKDOo6P70; HttpOnly; SameSite=None; Secure; Path=/; Domain=chatgpt.site; Expires=Tue, 06 Oct 2026 19:52:58 GMT
+Server: cloudflare
+CF-RAY: a46709b10e7c0e56-MXP
+
